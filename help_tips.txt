@@ -1,0 +1,2 @@
+#Grant privileges to a particular user to access database
+grant all privileges on *.* to root@localhost identified by 'password' with grant option;
